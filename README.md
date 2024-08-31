@@ -2,11 +2,7 @@
 - 🌱 I’m currently learning ... software development
 - 💞️ I’m looking to collaborate on ... web projects
 - 📫 How to reach me ... here
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/devroy10/achievements?format=svg&limit=3" width="400" />
-</p>
-
-- ⚡ Fun fact: ...
+<!---- ⚡ Fun fact: ...--->
 
 
 <!---
