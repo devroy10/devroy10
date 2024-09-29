@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @devroy10
-- 🌱 I’m currently learning ... software development
-- 💞️ I’m looking to collaborate on ... web projects
-- 📫 How to reach me ... here
+- 🌱 I’m currently learning ... software development 
+I'm also building a couple of developer tools to improve efficiecy at everyday tasks
+- 💞️ I’m looking to build solid products with interesting teams 
+- 📫 How to reach me ... any of my social media handles
 <!---- ⚡ Fun fact: ...--->
 
 
