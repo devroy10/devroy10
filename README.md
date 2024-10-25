@@ -3,6 +3,7 @@
 I'm also building a couple of developer tools to improve efficiecy at everyday tasks
 - 💞️ I’m looking to build solid products with interesting teams 
 - 📫 How to reach me ... any of my social media handles
+- ⚡ All live projects are listed on my link tree in bio 
 <!---- ⚡ Fun fact: ...--->
 
 
