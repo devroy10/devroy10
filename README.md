@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @devroy10
-- 🌱 I’m currently focusing on ... software development 
-I'm also building a couple of developer tools to improve efficiecy at everyday tasks
-- 💞️ I’m looking to build solid products with interesting teams 
-- 📫 How to reach me ... any of my social media handles
-- ⚡ All live projects are listed on my link tree in bio 
+- 👋 **Hi, I’m Uroy**
+
+---
+
+- 🌱 *I’m currently focusing on* **software development**, particularly in building innovative **web3** and **AI user products**.
+
+- 🚀 *My main focus is on* **frontend development** and enhancing *user experience*.
+
+---
+
+- 🔧 *I'm also building a couple of* **developer tools** to improve efficiency in everyday tasks.
+
+- 💞️ *I’m looking to collaborate on* **solid products** with interesting teams.
+
+---
+
+- 📫 *You can reach me through any of my* **social media handles**.
+
+- ⚡ *All my live projects are listed on my* **Linktree** *in my bio.*
 <!---- ⚡ Fun fact: ...--->
 
 
