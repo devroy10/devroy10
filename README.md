@@ -4,7 +4,7 @@
 
 - 🌱 *I’m currently focusing on* **software development**, particularly in building innovative **web3** and **AI user products**.
 
-- 🚀 *My main focus is on* **frontend development** and enhancing *user experience*.
+- 🚀 *My area of focus is **frontend development** and enhancing *user experience*.
 
 ---
 
