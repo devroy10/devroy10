@@ -2,7 +2,7 @@
 
 ---
 
-- 🌱 *I’m currently focusing on* **software development**, particularly in building innovative **tooling** and **AI user products**.
+- 🌱 *I’m currently focusing on* **software development**, particularly in building innovative **tools** and **AI user products**.
 
 - 🚀 *My area of focus is **frontend development** and enhancing *user experience*.
 
