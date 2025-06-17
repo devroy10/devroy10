@@ -2,9 +2,9 @@
 
 ---
 
-- 🌱 *I’m particularly interested in building innovative **tools** and **AI user products**.
+- 🌱 I’m particularly interested in building innovative **tools** and **AI user products**.
 
-- 🚀 *My area of focus is **frontend development** and enhancing **user experience**.
+- 🚀 My area of focus is **frontend development** and enhancing **user experience**.
 
 ---
 
