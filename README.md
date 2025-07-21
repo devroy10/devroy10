@@ -16,7 +16,6 @@
 
 - 📫 *You can reach me through any of my* **social media handles**.
 
-- ⚡ *All my live projects are listed on my* **Linktree** *in my bio.*
 <!---- ⚡ Fun fact: ...--->
 
 
