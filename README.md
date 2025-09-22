@@ -8,11 +8,11 @@
 
 - 🔧 *I'm also building a couple of* **developer tools** to improve efficiency in everyday tasks.
 
-- 💞️ *Got a **solid idea**, shoot me a DM. LGTM!
+-  Got a **solid idea**, shoot me a DM. LGTM!
 
 ---
 
-- 📫 *You can reach me through any of my* **social media handles**.
+- 📫 You can reach me through any of my* **social media handles**.
 
 <!---- ⚡ Fun fact: ...--->
 
