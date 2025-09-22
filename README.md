@@ -1,16 +1,14 @@
-- 👋 **Hi, I’m Uroy**
+- 👋 **Hi**
 
 ---
 
 - 🌱 I’m particularly interested in building innovative **tools** and **AI user products**.
 
-- 🚀 My area of focus is **frontend development** and enhancing **user experience**.
-
 ---
 
 - 🔧 *I'm also building a couple of* **developer tools** to improve efficiency in everyday tasks.
 
-- 💞️ *I’m looking to collaborate on* **solid products** with interesting teams.
+- 💞️ *Got a **solid idea**, shoot me a DM. LGTM!
 
 ---
 
