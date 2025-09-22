@@ -12,7 +12,7 @@
 
 ---
 
-- 📫 You can reach me through any of my* **social media handles**.
+- 📫 You can reach me through any of my **social media handles**.
 
 <!---- ⚡ Fun fact: ...--->
 
