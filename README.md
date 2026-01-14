@@ -14,17 +14,6 @@ I'm Uroy 👋 — full-stack developer focusing on TypeScript, user interfaces, 
 
 -  Got a **solid idea**, shoot me a DM. LGTM!
 
----
-
-- 📫 You can reach me through any of my **social media handles**.
-
-## Open Source Contribution
-I spend my off days contributing to open source software, it's the real legs we are standing on as an industry and I've gradually been putting my reps in.
-
-Here's some of my most recently merged PR's
-
-
-
 # Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -43,6 +32,27 @@ Here's some of my most recently merged PR's
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
+
+---
+
+- 📫 You can reach me through any of my **social media handles**.
+
+## Open Source Contribution
+I spend my off days contributing to open source software, it's the real legs we are standing on as an industry and I've gradually been putting my reps in.
+
+Here's some of my most recently merged PR's
+
+
+- https://github.com/tscircuit/circuit-json-to-step/pull/11
+- https://github.com/tscircuit/poppygl/pull/11
+- https://github.com/polarsource/examples/pull/13
+- https://github.com/activepieces/activepieces/pull/9076
+- https://github.com/tscircuit/runframe/pull/1127
+- https://github.com/tscircuit/poppygl/pull/1
+- https://github.com/n8n-io/n8n-docs/pull/3218
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---- ⚡ Fun fact: ...--->
 
