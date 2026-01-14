@@ -14,6 +14,8 @@ I'm Uroy 👋 — full-stack developer focusing on TypeScript, user interfaces, 
 
 -  Got a **solid idea**, shoot me a DM. LGTM!
 
+- 📫 You can reach me through any of my **social media handles** in my bio.
+
 # Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -35,7 +37,6 @@ I'm Uroy 👋 — full-stack developer focusing on TypeScript, user interfaces, 
 
 ---
 
-- 📫 You can reach me through any of my **social media handles**.
 
 ## Open Source Contribution
 I spend my off days contributing to open source software, it's the real legs we are standing on as an industry and I've gradually been putting my reps in.
