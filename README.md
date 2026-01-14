@@ -16,7 +16,7 @@ I'm Uroy 👋 — full-stack developer focusing on TypeScript, user interfaces, 
 
 - 📫 You can reach me through any of my **social media handles** in my bio.
 
-# Tech Stack:
+## Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
