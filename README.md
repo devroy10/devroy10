@@ -14,6 +14,11 @@
 
 - 📫 You can reach me through any of my **social media handles**.
 
+## Open Source Contribution
+I spend my off days contributing to open source software, it's the real legs we are standing on as an industry.
+Here's some of my most recent merged PR's
+
+
 <!---- ⚡ Fun fact: ...--->
 
 
