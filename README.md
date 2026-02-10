@@ -10,6 +10,7 @@ I'm Uroy 👋 full-stack developer focusing on TypeScript, user interfaces, and 
   
   ---
 
+- Open to full-time || part-time roles
 
 - 🌱 I’m particularly interested in building innovative **tools** and **AI native products**.
 
