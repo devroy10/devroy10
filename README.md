@@ -45,7 +45,7 @@ I spend my off days contributing to open source software, it's the real legs we 
 
 Here's some of my most recently merged PR's
 
-
+- https://github.com/superplanehq/superplane/pull/2979
 - https://github.com/tscircuit/circuit-json-to-step/pull/11
 - https://github.com/tscircuit/poppygl/pull/11
 - https://github.com/polarsource/examples/pull/13
