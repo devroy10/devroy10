@@ -44,7 +44,7 @@ I'm Uroy 👋 full-stack developer focusing on TypeScript, user interfaces, and 
 I spend my off days contributing to open source software, it's the real legs we are standing on as an industry and I've gradually been putting my reps in.
 
 Here's some of my most recently merged PR's
-
+- https://github.com/superplanehq/superplane/pull/3135
 - https://github.com/superplanehq/superplane/pull/3150
 - https://github.com/superplanehq/superplane/pull/2979
 - https://github.com/tscircuit/circuit-json-to-step/pull/11
