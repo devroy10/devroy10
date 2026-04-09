@@ -21,17 +21,6 @@ I'm Uroy 👋 full-stack developer focusing on TypeScript, user interfaces, and 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
 
-
-## Open Source Contribution
-I spend my off days contributing to open source software, it's the real legs we are standing on as an industry and I've gradually been putting my reps in.
-
-Here's some of my most recently merged PR's
-- https://github.com/superplanehq/superplane/pull/3135
-- https://github.com/superplanehq/superplane/pull/3150
-- https://github.com/superplanehq/superplane/pull/2979
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---- ⚡ Fun fact: ...--->
 
