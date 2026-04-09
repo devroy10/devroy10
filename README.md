@@ -2,24 +2,6 @@
 
 I'm Uroy 👋 full-stack developer focusing on TypeScript, user interfaces, and improving developer experience. I'm a lifelong Football fan and occassionally read self-help and productivity books from Cal Newton, Robert Greene and a few others.
 
-  <p align='center'>
-  <a href="https://github.com/sponsors/devroy10">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />       
-  </a>
-  </p>
-  
-  ---
-
-- I'm **open** to full-time || part-time roles
-
-- 🌱 I’m particularly interested in building innovative **tools** and **AI native products**.
-
-- 🔧 *I'm also building a couple of* **developer tools** to improve efficiency in everyday tasks.
-
--  Got a **solid idea**, shoot me a DM. LGTM!
-
-- 📫 You can reach me through any of my **social media handles** in my bio.
-
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
