@@ -29,13 +29,6 @@ Here's some of my most recently merged PR's
 - https://github.com/superplanehq/superplane/pull/3135
 - https://github.com/superplanehq/superplane/pull/3150
 - https://github.com/superplanehq/superplane/pull/2979
-- https://github.com/tscircuit/circuit-json-to-step/pull/11
-- https://github.com/tscircuit/poppygl/pull/11
-- https://github.com/polarsource/examples/pull/13
-- https://github.com/activepieces/activepieces/pull/9076
-- https://github.com/tscircuit/runframe/pull/1127
-- https://github.com/tscircuit/poppygl/pull/1
-- https://github.com/n8n-io/n8n-docs/pull/3218
 
 
 
