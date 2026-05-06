@@ -2,11 +2,13 @@
 
 I'm Uroy 👋 full-stack developer focusing on TypeScript, user interfaces, and improving developer experience. I'm a lifelong Football fan and occassionally read self-help and productivity books from Cal Newton, Robert Greene and a few others.
 
-  <p align='center'>
+<!-- 
+ <p align='center'>
   <a href="https://github.com/sponsors/devroy10">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />       
+   <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
   </a>
-  </p>
+ </p>
+-->
   
 ##
   
