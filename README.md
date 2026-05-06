@@ -8,17 +8,13 @@ I'm Uroy 👋 full-stack developer focusing on TypeScript, user interfaces, and 
   </a>
   </p>
   
-  ---
+##
+  
+- I’m particularly interested in building AI native products and products that make everyday tasks muh easier.
 
-- I'm **open** to full-time || part-time roles
+- Got a solid idea?, shoot me a DM.
 
-- 🌱 I’m particularly interested in building innovative **tools** and **AI native products**.
-
-- 🔧 *I'm also building a couple of* **developer tools** to improve efficiency in everyday tasks.
-
--  Got a **solid idea**, shoot me a DM. LGTM!
-
-- 📫 You can reach me through any of my **social media handles** in my bio.
+- You can reach me through my social media handles in my bio.
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
