@@ -14,7 +14,7 @@ I'm Uroy 👋 full-stack developer focusing on TypeScript, user interfaces, and 
   
 - I’m particularly interested in building AI native products and products that make everyday tasks muh easier.
 
-- Got a solid idea?, shoot me a DM.
+- Got a solid idea? shoot me a DM.
 
 - You can reach me through my social media handles in my bio.
 
