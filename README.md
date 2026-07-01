@@ -17,7 +17,7 @@ I'm Uroy 👋 full-stack developer focusing on TypeScript, user interfaces, and 
 - Got a solid idea? shoot me a DM.
 
 - You can reach me through my social media handles in my bio.
-
+<!---
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -36,7 +36,7 @@ I'm Uroy 👋 full-stack developer focusing on TypeScript, user interfaces, and 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
-
+--->
 
 ## Open Source Contribution
 I spend my off days contributing to open source software, it's the real legs we are standing on as an industry and I've gradually been putting my reps in.
