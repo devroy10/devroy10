@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Uroy 👋 full-stack developer focusing on TypeScript, user interfaces, and improving developer experience. I'm a lifelong Football fan and occassionally read self-help and productivity books from Cal Newton, Robert Greene and a few others.
+I'm Uroy 👋 a Software Engineer focused on buildable reliable applications,delightful user interfaces, and improving developer experience. I'm a lifelong Football fan and occassionally read self-help and productivity books from Cal Newton, Robert Greene and a few others.
 
 <!-- 
  <p align='center'>
