@@ -12,7 +12,7 @@ I'm Uroy 👋 a Software Engineer focused on buildable reliable applications, de
   
 ##
   
-- I’m particularly interested in building AI native products and products that make everyday tasks muh easier.
+- I’m particularly interested in building AI native products and products that make everyday tasks much easier.
 
 - Got a solid idea? shoot me a DM.
 
