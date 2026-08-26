@@ -1,4 +1,4 @@
-<img width="1273" height="751" alt="image" src="https://github.com/user-attachments/assets/62a9bf9a-4878-4367-aa53-442eeabb5473" />## About Me
+## About Me
 
 I'm Uroy 👋 a Software Engineer I love building reliable applications, delightful user interfaces, and improving developer experience. I'm a lifelong Football fan and occassionally read self-help and productivity books from Cal Newton, Robert Greene and a few others.
 
