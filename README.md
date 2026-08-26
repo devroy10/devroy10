@@ -1,6 +1,6 @@
-## About Me
+<img width="1273" height="751" alt="image" src="https://github.com/user-attachments/assets/62a9bf9a-4878-4367-aa53-442eeabb5473" />## About Me
 
-I'm Uroy 👋 a Software Engineer focused on buildable reliable applications, delightful user interfaces, and improving developer experience. I'm a lifelong Football fan and occassionally read self-help and productivity books from Cal Newton, Robert Greene and a few others.
+I'm Uroy 👋 a Software Engineer I love building reliable applications, delightful user interfaces, and improving developer experience. I'm a lifelong Football fan and occassionally read self-help and productivity books from Cal Newton, Robert Greene and a few others.
 
 <!-- 
  <p align='center'>
@@ -20,6 +20,7 @@ I'm Uroy 👋 a Software Engineer focused on buildable reliable applications, de
 I spend my off days contributing to open source software, it's the real legs we are standing on as an industry and I've gradually been putting my reps in.
 
 Here's some of my most recently merged PR's
+- https://github.com/vaibhavarora14/job-application-agent/pull/29
 - https://github.com/midnightntwrk/example-hello-world/issues/16
 - https://github.com/superplanehq/superplane/pull/3135
 - https://github.com/superplanehq/superplane/pull/3150
