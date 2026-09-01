@@ -1,6 +1,6 @@
 ## About Me
 
-👋 I'm Uroy, a Software Engineer and I love building web applications, delightful user interfaces, and improving developer experience. I'm a lifelong Football fan and occasionally read self-help and productivity books from Cal Newton, Robert Greene and a few others.
+👋 I'm Uroy, a Software Developer and I love building web applications, delightful user interfaces, and improving developer experience. I'm a lifelong Football fan and occasionally read self-help and productivity books from Cal Newton, Robert Greene and a few others.
 
 <!-- 
  <p align='center'>
